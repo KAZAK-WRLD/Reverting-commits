@@ -1,0 +1,6 @@
+Initial stable content !!!!!!!!
+
+Stable paragraph:
+Hello everybody, this is a stable paragraph that has no error and we are going to commit this text file. Later on, I will edit this file and leave an error or bug and then commit it as well. And finally, I'll come back to this original commit and remove the bugged one.
+
+
